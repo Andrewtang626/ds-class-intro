@@ -3,24 +3,25 @@ Edit this file to complete Exercise 6
 '''
 
 def calculation(a, b):
-	'''
-	Write a function calculation() such that it can accept two variables 
-	and calculate the addition and subtraction of it. 
-	It must return both addition and subtraction in a single return call
+    return a+b
+'''
+Write a function calculation() such that it can accept two variables 
+and calculate the addition and subtraction of it. 
+It must return both addition and subtraction in a single return call
 
-	Expected output:
-	res = calculation(40, 10)
-	print(res)
-	>>> (50, 30)
+Expected output:
+res = calculation(40, 10)
+print(res)
+>>> (50, 30)
 
-	Arguments:
-	a: first number 
-	b: second number
+Arguments:
+a: first number 
+b: second number
 
-	Returns:
-	sum: sum of two numbers
-	diff: difference of two numbers
-	'''
+Returns:
+sum: sum of two numbers
+diff: difference of two numbers
+'''
 
 	# code up your solution here
 
